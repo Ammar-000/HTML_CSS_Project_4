@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 You can view the live project here:  
-👉 [Live URL](https://html-css-project-4-amber.vercel.app/)
+👉 [Live Demo](https://html-css-project-4-amber.vercel.app/)
 
 ## 📖 Overview
 This project is part of my frontend development practice, built using HTML and CSS.  
